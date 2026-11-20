@@ -26,6 +26,6 @@
 
 ### Wikimedia & Public Health Contributions
 
-* **Sinhala Wikipedia (`si.wikipedia.org`):** [පරිශීලක:Dr Priya Sammani](https://si.wikipedia.org/wiki/%E0%B6%B4%E0%B6%BB%E0%B7%92%E0%B7%81%E0%B7%93%E0%B6%BD%E0%B6%9A:Dr_Priya_Sammani) (38+ clinical encyclopedia articles)
+* **Sinhala Wikipedia (`si.wikipedia.org`):** [පරිශීලක:Dr Priya Sammani](https://si.wikipedia.org/wiki/%E0%B6%B4%E0%B6%BB%E0%B7%92%E0%B7%81%E0%B7%93%E0%B6%BD%E0%B6%9A:Dr_Priya_Sammani) (40+ clinical encyclopedia articles)
 * **Wikidata Entity:** [Q142072483](https://www.wikidata.org/wiki/Q142072483)
 * **Official Clinical Portal:** [https://nirogilanka.com/](https://nirogilanka.com/) · [Open Research & Datasets Hub](https://nirogilanka.com/en/research/)
